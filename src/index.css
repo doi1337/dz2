@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-card {
+  margin-bottom: 15px;
+}
+
+.post-details-card {
+  margin-bottom: 15px;
+}
+
+.comment-card {
+  margin-top: 10px;
+}
